@@ -34,15 +34,18 @@
 		<meta property="term" refines="#subject-1">sh85047125</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh94009305</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Chronicles of Shadow Valley</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young nobleman becomes a magician to secure his sister’s marriage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Lord of the Tower and Rocky Forest, Gonsalvo, only wants the best for his children, but the dire state of his coffers means that a dowry for his daughter Mirandola’s hoped-for wedding is but a dream. He does however have a plan: his father, whose great love was boar hunting, had been promised a favor from a magician to whom he’d taught his skill. If his son, Ramon Alonzo, could find him again after all these years, perhaps he could be tutored in the arts of alchemy and the transmutation of base metal to gold? It is with this hope that Ramon Alonzo heads off into the forest on a quest to learn the Black Arts.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Charwoman’s Shadow&lt;/i&gt; was one of &lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany’s&lt;/a&gt; many early fantasy stories that helped set to the modern genre in motion. It blends historical romance with magic and magical creatures in a purported Spanish “golden age”; a setting also used in the earlier &lt;i&gt;Don Rodriguez: Chronicles of Shadow Valley&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20220731</dc:source>
 		<dc:source>https://archive.org/details/charwomansshadow0000lord</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Charwoman%27s_Shadow</meta>
